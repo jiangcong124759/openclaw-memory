@@ -33,7 +33,7 @@
 ## 归档记录
 
 历史记忆文件已提交至 GitHub，本地仅保留最近3天。
-归档位置: https://github.com/{user}/openclaw-memory
+归档位置: https://github.com/jiangcong124759/openclaw-memory
 
 ### 归档历史
 | 日期 | 提交 | 备注 |
